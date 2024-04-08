@@ -22,6 +22,7 @@ int main()
         );
     };
     float ji = 0;
+    float li = 0;
 
     // Should be done last. It starts the infinite loop.
     ctx.start();
