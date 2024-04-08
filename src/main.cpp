@@ -21,6 +21,7 @@ int main()
             p6::Radius{0.2f}
         );
     };
+    float ji = 0;
 
     // Should be done last. It starts the infinite loop.
     ctx.start();
